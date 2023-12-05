@@ -12,6 +12,7 @@
 import UIKit
 
 public class ProgressHUD: UIView {
+	//YANHUO Modify
 
 	var main: UIWindow!
 
